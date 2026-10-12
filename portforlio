@@ -1,0 +1,27 @@
+Hi, I'm Ogaba Micheal 👋
+
+### Cloud Engineer | DevOps Engineer | Systems Administrator
+I design and run cloud infrastructure that stays up when it matters.
+
+---
+
+### 🚀 Featured - Live Project
+**Portfolio Website on AWS EC2**
+- **Live:** http://51.20.7.7
+- **GitHub:** This repo
+- **Stack:** AWS EC2 (Ubuntu), Nginx, Security Groups, Linux
+- **What I built:** Launched EC2 instance, opened ports 80/22, deployed custom HTML, configured Nginx, fixed HTTPS vs HTTP routing.
+
+> Deployed from scratch via SSH - `sudo systemctl restart nginx` and `curl -I localhost` verified 200 OK.
+
+### 🛠️ Skills
+- AWS: EC2, VPC, Security Groups
+- Tools: Nginx, Git, Linux, Bash
+- Languages: HTML/CSS, Python (learning)
+
+### 📫 Contact
+- Email: ogaba.micheal@email.com
+- GitHub: @OGABA284
+
+---
+*AltSchool Cloud Engineering - Second Semester*
